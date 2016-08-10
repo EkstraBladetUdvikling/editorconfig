@@ -9,13 +9,13 @@ insert_final_newline = true
 
 [*.{js,ts}]
 indent_style = space
-indent_size = 4
-tab_width = 4
+indent_size = 2
+tab_width = 2
 
 [*.{css,scss}]
 indent_style = space
-indent_size = 4
-tab_width = 4
+indent_size = 2
+tab_width = 2
 
 [*.json]
 indent_style = space
