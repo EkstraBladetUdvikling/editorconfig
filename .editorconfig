@@ -23,11 +23,13 @@ quote_type = double
 indent_style = space
 indent_size = 2
 tab_width = 2
+quote_type = double
 
 [*.html, *.md, *.jsp]
 indent_style = space
 indent_size = 2
 tab_width = 2
+quote_type = double
 
 [Makefile]
 indent_style = space
